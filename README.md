@@ -1,4 +1,4 @@
-# AddressBook-NewDesign
+
 # Address Book in C
 
 This is a small address book that runs in the terminal. I made it in C while learning embedded systems, mainly to practice structures, pointers, strings and file handling in one real project instead of separate exercises.
