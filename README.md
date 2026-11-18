@@ -79,5 +79,5 @@ Ravi Kumar,9123456780,ravi@example.com
 
 
 
-Your Name
-[LinkedIn](https://www.linkedin.com/in/your-profile) | [GitHub](https://github.com/YOUR_USERNAME)
+
+
